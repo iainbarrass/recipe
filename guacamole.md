@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-Peel things
+Peel things then eat on toast
